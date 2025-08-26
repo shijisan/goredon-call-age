@@ -5,8 +5,6 @@
 - kai sotto
 - bomboclat
 
-===
-
 ## Languages
 
 - visacode
